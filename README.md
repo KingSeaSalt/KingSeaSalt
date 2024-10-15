@@ -1,0 +1,5 @@
+-  Hi, I’m Julian 
+-  I’m interested in changing fields of work to work in the tech world. I come from a cooking background and always have a hidden passion of either taking apart devices and putting it together or problem solve troubleshooting 
+-  I’m currently learning ways to become a system administration or network engineer. Really tough to set my eyes on anything until I get in the field.
+-  I’m looking to collaborate on network infrastructure and share ideas to better understand different computer languages.
+- 
